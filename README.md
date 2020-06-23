@@ -3,4 +3,6 @@ Big Data is changing the way Research is conducted, especially in fields where c
 
 This is a Simple R Code showing the difference it makes in processing data Serially and Parallaly.
 
+Full Detailed Explanation on SSH Login, SFTP, Clusters and screen shots dislpaying the Working and Results can be found in the Report.
+
 
